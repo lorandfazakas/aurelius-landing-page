@@ -20,9 +20,9 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : test
-your_link                                 : test.com
-your_city                                 : testcity
+your_name                                 : 
+your_link                                 : 
+your_city                                 : 
 email_address                             : support@aureliusapp.io
 facebook_username                         :                                           
 instagram_username                        : ebaehr
